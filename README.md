@@ -80,6 +80,6 @@ User Portal: Read-only access to dashboards and personal settings.
   <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/90b36358-df2a-467e-8886-eb63bf37cf91" />
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e706de80-c817-42c9-9b4b-b78cbbdcf25f" />
 
- Acknowledgements
+ # Acknowledgements
 
 Special thanks to [Ayush S](https://github.com/ayush007-lio) for guidance and support.
